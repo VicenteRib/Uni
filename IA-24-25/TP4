@@ -1,0 +1,18 @@
+P1.1
+    X = {chuva, molhado}
+    X = {chuva, rega, molhado}
+
+P1.2
+    X = {café, açucar, leite}
+    X = {café, açucar, leite, chá, limão}
+    X = {café, açucar, leite, chá, limão, dieta}
+
+P1.3
+    X = {chuva, molhado}
+    X = {rega, molhado}
+    X = {rega, molhado, chuva}
+
+P1.4
+    X = {chá, limão, dieta}
+    X = {café, açucar, leite}
+    X = {café, açucar, leite, chá, limão, dieta}
